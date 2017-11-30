@@ -1,0 +1,17 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">java Cafe</string>
+
+    <!-- App Name -->
+    <string name="main_header">Java Cafe</string>
+
+    <!-- Order Button-->
+    <string name="set_order">Order Now!</string>
+
+    <!-- Get Location Button-->
+    <string name="get_location">Location on Map</string>
+
+    <!-- Back Button -->
+    <string name="back_button">Back</string>
+
+</resources>
